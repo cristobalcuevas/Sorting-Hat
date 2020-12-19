@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name A6S-1104-H)(type Legacy)(uri ${KIPRJMOD}/A6S-1104-H.lib)(options "")(descr ""))
+  (lib (name BK-912-TR)(type Legacy)(uri ${KIPRJMOD}/BK-912-TR.lib)(options "")(descr ""))
+)
