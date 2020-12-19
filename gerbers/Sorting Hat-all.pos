@@ -1,0 +1,16 @@
+### Module positions - created on 12/19/20 00:29:53 ###
+### Printed by Pcbnew version pcbnew (5.1.7)-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val       Package                                           PosX       PosY       Rot  Side
+C1        10uF      CP_Elec_4x5.4                                 159.7500   -57.0000    0.0000  bottom
+C2        10uF      CP_Elec_4x5.4                                 163.7500   -62.0000  180.0000  bottom
+D1        LED       D_1206_3216Metric_Pad1.42x1.75mm_HandSolder   157.6600   -74.0200  130.0000  bottom
+D2        LED       D_1206_3216Metric_Pad1.42x1.75mm_HandSolder   167.3800   -75.8900   37.0000  bottom
+Q1        BC807     SOT-23                                        158.2500   -62.2500  270.0000  bottom
+Q2        BC807     SOT-23                                        166.5000   -56.2500  270.0000  bottom
+R1        100k      R_1206_3216Metric_Pad1.42x1.75mm_HandSolder   163.0000   -68.7500  270.0000  bottom
+R2        100k      R_1206_3216Metric_Pad1.42x1.75mm_HandSolder   165.5000   -68.7500  270.0000  bottom
+R3        330       R_1206_3216Metric_Pad1.42x1.75mm_HandSolder   160.5000   -68.7500  270.0000  bottom
+R4        330       R_1206_3216Metric_Pad1.42x1.75mm_HandSolder   168.0000   -68.7500  270.0000  bottom
+## End
