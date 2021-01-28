@@ -1,4 +1,4 @@
-# Sorting-Hat
+# Sorting Hat
 
 ## svg2shenzhen
 Use this extension for `Inkscape` to make the shapes of the PCB, which include the layers:
