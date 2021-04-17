@@ -10,13 +10,13 @@ Use this extension for `Inkscape` to make the shapes of the PCB, which include t
 - B.Mask
 - F.SlikS
 
-<img src="https://github.com/kriistobal/Sorting-Hat/blob/main/svg2shenzhen.PNG" width="80%" height="80%">
-
 This extension allows exporting the layers as modules or as projects
 
-<img src="https://github.com/kriistobal/Sorting-Hat/blob/main/circuit.PNG" width="50%" height="50%">
+<img src="https://github.com/kriistobal/Sorting-Hat/blob/main/svg2shenzhen.PNG" width="80%" height="80%">
 
 With the layers and circuit ready, it remains to add tracks to the PCB and some footprint. For the final design add 3D models for better visualization.
+
+<img src="https://github.com/kriistobal/Sorting-Hat/blob/main/circuit.PNG" width="50%" height="50%">
 
 ---
 
