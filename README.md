@@ -43,5 +43,3 @@ With the layers and circuit ready, it remains to add tracks to the PCB and some 
 | Transistor pnp sot-23 SMD       | 2        |
 | Switch slide dip spst SMD       | 1        |
 | Battery retainer coin 20 mm SMD | 1        |
-
-[JLCPCB.COM](https://jlcpcb.com/)
